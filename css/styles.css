@@ -547,7 +547,7 @@ img {
   font-family: "Roboto", sans-serif;
   border-radius: 4px;
 
-  max-width: 165px;
+  min-width: 165px;
   height: 40px;
   justify-content: center;
   align-items: center;
